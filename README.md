@@ -1,5 +1,3 @@
-# Multimodal_Learning_for_Rainfall_Classification
-
 # Multimodal Rain Intensity Classification
 
 An automatic rain intensity classification system based on a multimodal approach that integrates a **piezoelectric sensor** and a **microphone**, developed as a Bachelor's thesis in Electronic Engineering at the University of Catania.
